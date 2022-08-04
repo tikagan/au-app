@@ -4,7 +4,6 @@ import axios from 'axios';
 import { useEffect, useState } from 'react';
 import MinerTable from './MinerTable'
 import TableHeader from './TableHeader'
-import arrow from './Simple_triangle.svg'
 
 function App() {
   //sets up initial state of the app
